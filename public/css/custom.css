@@ -1,0 +1,59 @@
+/* Typography */
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p, span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Warna utama */
+.bg-forest-green {
+    background-color: #2D5F3C !important;
+}
+
+.text-earth-brown {
+    color: #5F4B32 !important;
+}
+
+.text-sky-blue {
+    color: #4A90BB !important;
+}
+
+/* Tombol */
+.btn-primary {
+    background-color: #2D5F3C;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+}
+
+.bg-forest-25 {
+  background-color: rgba(45, 95, 60, 0.25); /* set transparansi */
+}
+@media (max-width: 768px) {
+  section img {
+    width: 150px;
+    opacity: 0.5; /* jika ingin gambar tidak dominan */
+  }
+}
+
+

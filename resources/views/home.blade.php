@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="py-5 bg-forest-25 position-relative overflow-hidden">
+<section class=" py-5 bg-forest position-relative overflow-hidden">
   <div class="container position-relative z-2">
     <div class="row">
       <div class="col-md-8">
